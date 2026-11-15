@@ -1,0 +1,9 @@
+{"question": "How many days do I have to return something?", "expected": "Returns and Refunds"}
+{"question": "When will my refund arrive?", "expected": "Returns and Refunds"}
+{"question": "Can I exchange boots for a different size?", "expected": "Returns and Refunds"}
+{"question": "How much does express shipping cost?", "expected": "Shipping"}
+{"question": "My tracking has not updated for a week", "expected": "Shipping"}
+{"question": "Is there a surcharge for heavy tents?", "expected": "Shipping"}
+{"question": "My zipper broke after a year, is that covered?", "expected": "Warranty"}
+{"question": "What do I need to submit a warranty claim?", "expected": "Warranty"}
+{"question": "Who handles warranty for other brands?", "expected": "Warranty"}
